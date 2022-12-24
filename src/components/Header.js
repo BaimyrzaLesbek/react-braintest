@@ -6,7 +6,7 @@ export default function Header() {
     <section className="hero">
       <div className="hero-body">
         <div className="container">
-          <h1 id="white" className="title">Trivia Quiz!</h1>
+          <h1 id="white" className="title">Braintest Quiz!</h1>
           <h2 id="yellow" className="subtitle">
             Test your knowledge of trivia! Select a category or answer questions from all possible categories.
           </h2>
