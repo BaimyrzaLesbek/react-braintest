@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-braintest/static/css/main.1862cede.chunk.css",
-    "main.js": "/react-braintest/static/js/main.1021d39a.chunk.js",
-    "main.js.map": "/react-braintest/static/js/main.1021d39a.chunk.js.map",
+    "main.css": "/react-braintest/static/css/main.ca365c7b.chunk.css",
+    "main.js": "/react-braintest/static/js/main.34d3a157.chunk.js",
+    "main.js.map": "/react-braintest/static/js/main.34d3a157.chunk.js.map",
     "runtime-main.js": "/react-braintest/static/js/runtime-main.9e2f74d0.js",
     "runtime-main.js.map": "/react-braintest/static/js/runtime-main.9e2f74d0.js.map",
     "static/css/2.0c0672e5.chunk.css": "/react-braintest/static/css/2.0c0672e5.chunk.css",
     "static/js/2.31bb0ad6.chunk.js": "/react-braintest/static/js/2.31bb0ad6.chunk.js",
     "static/js/2.31bb0ad6.chunk.js.map": "/react-braintest/static/js/2.31bb0ad6.chunk.js.map",
     "index.html": "/react-braintest/index.html",
-    "precache-manifest.cb5960bfbbb705435ab22c008940473e.js": "/react-braintest/precache-manifest.cb5960bfbbb705435ab22c008940473e.js",
+    "precache-manifest.b900705a2187cc9c6186268d2556884a.js": "/react-braintest/precache-manifest.b900705a2187cc9c6186268d2556884a.js",
     "service-worker.js": "/react-braintest/service-worker.js",
     "static/css/2.0c0672e5.chunk.css.map": "/react-braintest/static/css/2.0c0672e5.chunk.css.map",
-    "static/css/main.1862cede.chunk.css.map": "/react-braintest/static/css/main.1862cede.chunk.css.map",
+    "static/css/main.ca365c7b.chunk.css.map": "/react-braintest/static/css/main.ca365c7b.chunk.css.map",
     "static/js/2.31bb0ad6.chunk.js.LICENSE.txt": "/react-braintest/static/js/2.31bb0ad6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9e2f74d0.js",
     "static/css/2.0c0672e5.chunk.css",
     "static/js/2.31bb0ad6.chunk.js",
-    "static/css/main.1862cede.chunk.css",
-    "static/js/main.1021d39a.chunk.js"
+    "static/css/main.ca365c7b.chunk.css",
+    "static/js/main.34d3a157.chunk.js"
   ]
 }
